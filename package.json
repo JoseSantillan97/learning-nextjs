@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^3.0.0",
     "next": "^12.2.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
